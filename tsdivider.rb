@@ -6,6 +6,7 @@ class Tsdivider < Formula
   homepage ""
   url "https://github.com/range3/tsdivider/archive/v0.3.0.tar.gz"
   sha256 "bb98661dc9a2949a071ea7bd1989cbe40b92ebe72f8d48f952fdc803a4742b81"
+  head "https://github.com/range3/tsdivider.git"
   depends_on "cmake" => :build
   depends_on "boost"
 
