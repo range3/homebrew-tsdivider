@@ -4,8 +4,8 @@
 class Tsdivider < Formula
   desc "Dividing TS files as tssplitter"
   homepage ""
-  url "https://github.com/range3/tsdivider/archive/v0.3.0.tar.gz"
-  sha256 "bb98661dc9a2949a071ea7bd1989cbe40b92ebe72f8d48f952fdc803a4742b81"
+  url "https://github.com/range3/tsdivider/archive/v0.3.1.tar.gz"
+  sha256 "82aad9b55cc65bad2bb450b279a9cb698a8d95ed38b6a2c475ce96d13daa1db1"
   head "https://github.com/range3/tsdivider.git"
   depends_on "cmake" => :build
   depends_on "boost"
